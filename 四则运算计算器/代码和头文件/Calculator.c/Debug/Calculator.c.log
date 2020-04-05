@@ -1,0 +1,12 @@
+﻿  Calculator.c
+C:\Users\86180\Desktop\qg2\四则运算计算器\代码和头文件\Calculator.c\Calculator.c(13,29): warning C4047: “=”:“ElemType”与“StackNode *”的间接级别不同
+C:\Users\86180\Desktop\qg2\四则运算计算器\代码和头文件\Calculator.c\Calculator.c(17,1): warning C4047: “初始化”:“CuStackPtr *”与“StackNode *”的间接级别不同
+C:\Users\86180\Desktop\qg2\四则运算计算器\代码和头文件\Calculator.c\Calculator.c(20,21): warning C4028: 形参 1 与声明不同
+C:\Users\86180\Desktop\qg2\四则运算计算器\代码和头文件\Calculator.c\Calculator.c(36,22): error C2198: “getTopLStack”: 用于调用的参数太少
+C:\Users\86180\Desktop\qg2\四则运算计算器\代码和头文件\Calculator.c\Calculator.c(37,19): error C2143: 语法错误: 缺少“)”(在“类型”的前面)
+C:\Users\86180\Desktop\qg2\四则运算计算器\代码和头文件\Calculator.c\Calculator.c(37,19): error C2198: “if_char”: 用于调用的参数太少
+C:\Users\86180\Desktop\qg2\四则运算计算器\代码和头文件\Calculator.c\Calculator.c(37,20): error C2059: 语法错误:“)”
+C:\Users\86180\Desktop\qg2\四则运算计算器\代码和头文件\Calculator.c\Calculator.c(37,24): error C2059: 语法错误:“)”
+  main.c
+C:\Users\86180\Desktop\qg2\四则运算计算器\代码和头文件\Calculator.c\main.c(44,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
